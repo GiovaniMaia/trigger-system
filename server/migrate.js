@@ -3,9 +3,9 @@ import fs from 'fs';
 import path from 'path';
 
 const dbConfig = {
-  host: '37.27.219.217',
-  user: 'root',
-  password: 'V4SA@2210!',
+  host: '',
+  user: '',
+  password: '',
   port: 3306
 };
 
